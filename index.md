@@ -2,7 +2,7 @@
 
 This website is an archive of the various components of the Alaska Affordable Energy Strategy (AkAES) reports, model, code, and data. The goal of the archive is to preserve all of these various components in one location for long-term accessability and ensure they remain available for future updates as appropriate. 
 
-The official home of the AkAES reports is the [Alaska Energy Authority](http://www.akenergyauthority.org/Policy-Planning/AlaskaAffordableEnergyStrategy) (_website not available as of 2021_).  The bulk of the overview and context setting content below is directly from the Alaska Energy Authority's website.
+The official home of the AkAES reports is the [Alaska Energy Authority](http://www.akenergyauthority.org/Policy-Planning/AlaskaAffordableEnergyStrategy) (_website not available as of January 2021_).  The bulk of the overview and context setting content below is directly from the Alaska Energy Authority's website.
 
 
 ### Alaska Affordable Energy Strategy Overview
@@ -59,11 +59,11 @@ The entire report can be downloaded here:
 * [June 3rd, 2016](progress/AkAES6316.pdf)
 * [May 20th, 2016](progress/AkAES52016.pdf)
 * [May 9th, 2016](progress/Update5916.pdf)
-* April 8th, 2016
+* April 8th, 2016 _report missing from archive_
 * [March 25th, 2016](progress/AkAES32516.pdf)
 * [March 11th, 2016](progress/AkAES31116.pdf)
 * [Febuary 26th, 2016](progress/AkAES22616.pdf)
-* [January 29th, 2016](progress/AkAES12916.pdf) | 
+* [January 29th, 2016](progress/AkAES12916.pdf) 
 * [December 18th, 2015](progress/AkAES121815.pdf)
 * [November 20th, 2015](progress/AkAES112015.pdf)
 * [November 6th, 2016](progress/AkAES11615.pdf)
@@ -77,6 +77,8 @@ The entire report can be downloaded here:
 * [July 16th, 2015](progress/AkAES71615.pdf)
 
 #### Presentations
+
+_some presentations have not been recovered for inclusion into archive_
 
 * Advisory Committee Presentations
   * June 21, 2016: Preliminary Results from Research
@@ -112,8 +114,10 @@ The Alaska Affordable Energy Model (AAEM) is a model designed by the Alaska Ener
 
 Disclaimer: The results presented in the model results are generated from available data on population, consumption, generation, and information on a technologies analyzed. For some communities this information may be incomplete. If you have, or know of a source of data that could help improve the model please contact The Alaska Energy Authority.
 
-* [Browse Model Run Results]() model version: 1.0.0 data version: 1.0.0 _NOT AVAILABLE YET_
-* [Browse Model Documentation]() _NOT AVAILABLE YET_
+_Module Run and Documentation websites not available yet_
+
+* [Browse Model Run Results]() model version: 1.0.0 data version: 1.0.0 
+* [Browse Model Documentation]()
 
 #### Installing the model locally
 
@@ -126,3 +130,5 @@ This is an archive of the work done by the Alaska Energy Authority and the vario
 We recommend starting with AEA as a first point of contact for questions about the report and content within. 
 
 If you have questions or want to help improve this archive of the AkAES feel free to contact us at ACEP: dayne@alaska.edu 
+
+If you spot an error/correction or have additional content available please let us know through our [GitHub issue tracker](https://github.com/acep-uaf/AkAES/issues).
