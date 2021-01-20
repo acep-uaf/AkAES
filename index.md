@@ -52,10 +52,7 @@ The entire report can be downloaded here:
 | [Energy Costs & Rural Alaska Out-migration](reports/2017_03-EnergyCostsAndRuralOut-Migration.pdf) | [UAA Institute of Social & Economic Research](https://iseralaska.org/) | March 2017 |
 | [Financial Benchmarking for Rural Alaska Electric Utilities](reports/UtilityBenchmarkingReport.pdf) | [UAA Center for Economic Development](https://www.uaa.alaska.edu/academics/business-enterprise-institute/center-for-economic-development/) | June 2017 |
 
-##### Progress Reports & Presentations Archive
-<table><tbody>
-<tr><th>Progress Reports</th><th>Presentations</th>
-</tr><tr>
+#### Progress Reports 
 
 * [June 30th, 2016](progress/AkAESEEPartnership063016.pdf) 
 * [June 17th, 2016](progress/AkAES61716.pdf)
@@ -79,29 +76,27 @@ The entire report can be downloaded here:
 * [July 31st, 2015](progress/AkAES73115.pdf)
 * [July 16th, 2015](progress/AkAES71615.pdf)
 
-</tr><tr>
+#### Presentations
 
 * Advisory Committee Presentations
- * June 21, 2016: Preliminary Results from Research
- * [April 4, 2016: Drivers for Energy Cost](presentations/AdvisGrp4CostDrivers.pdf)
- * [February 18, 2016: Affordable Energy]()
- * November 19, 2015: Energy Sources, Consumption, & Rates in AkAES Communities
- * October 7, 2015:  What is AkAES?
+  * June 21, 2016: Preliminary Results from Research
+  * [April 4, 2016: Drivers for Energy Cost](presentations/AdvisGrp4CostDrivers.pdf)
+  * [February 18, 2016: Affordable Energy]()
+  * November 19, 2015: Energy Sources, Consumption, & Rates in AkAES Communities
+  * October 7, 2015:  What is AkAES?
 * Technical Advisory Committee Presentations
- * [January 27, 2016: Update](presentations/TechAdvUpdate012716.pdf)
- * November 6, 2015: Modeling
- * [September 23, 2015: Implications of "Affordable"](presentations/TechAdvUpdate092315.pdf) 
- * [July 23, 2015: What is the AkAES?](presentations/TechAdvUpdate072315.pdf)
+  * [January 27, 2016: Update](presentations/TechAdvUpdate012716.pdf)
+  * November 6, 2015: Modeling
+  * [September 23, 2015: Implications of "Affordable"](presentations/TechAdvUpdate092315.pdf) 
+  * [July 23, 2015: What is the AkAES?](presentations/TechAdvUpdate072315.pdf)
 * Legislature Presentations
- * [January 25, 2017: Presentation to the Senate Resources Committe](presentations/AkAESforSenateandHouseResource-1-25-17.pdf)
+  * [January 25, 2017: Presentation to the Senate Resources Committe](presentations/AkAESforSenateandHouseResource-1-25-17.pdf)
 * Other Presentations
- * [June 27, 2015: Update to Regional Planners](presentations/AkAESRegionalPlannersUpdate62716.pdf)
- * [April 26, 2016: Rural Energy Conference](presentations/AKaesREC42616.pdf)
- * [September 25, 2015: AEA Board Meeting](presentations/UpdatetoAEABoard092415.pdf)
- * [August 3, 2015: AkAES Update to Regional Planners](presentations/UpdatetoRegionalPlanners080315.pdf)
- * [December 9, 2014: Law Seminar Presentation](presentations/LawSeminarPres120914.pdf)
-
-</tr></tbody></table>
+  * [June 27, 2015: Update to Regional Planners](presentations/AkAESRegionalPlannersUpdate62716.pdf)
+  * [April 26, 2016: Rural Energy Conference](presentations/AKaesREC42616.pdf)
+  * [September 25, 2015: AEA Board Meeting](presentations/UpdatetoAEABoard092415.pdf)
+  * [August 3, 2015: AkAES Update to Regional Planners](presentations/UpdatetoRegionalPlanners080315.pdf)
+  * [December 9, 2014: Law Seminar Presentation](presentations/LawSeminarPres120914.pdf)
 
 ### Afforable Energy Strategy Model
 
