@@ -52,8 +52,10 @@ The entire report can be downloaded here:
 | [Energy Costs & Rural Alaska Out-migration](reports/2017_03-EnergyCostsAndRuralOut-Migration.pdf) | [UAA Institute of Social & Economic Research](https://iseralaska.org/) | March 2017 |
 | [Financial Benchmarking for Rural Alaska Electric Utilities](reports/UtilityBenchmarkingReport.pdf) | [UAA Center for Economic Development](https://www.uaa.alaska.edu/academics/business-enterprise-institute/center-for-economic-development/) | June 2017 |
 
-##### Progress Reports Archive
-
+##### Progress Reports & Presentations Archive
+<table><tbody>
+<tr><th>Progress Reports</th><th>Presentations</th>
+</tr><tr>
 * [June 30th, 2016](progress/AkAESEEPartnership063016.pdf) 
 * [June 17th, 2016](progress/AkAES61716.pdf)
 * [June 3rd, 2016](progress/AkAES6316.pdf)
@@ -63,7 +65,7 @@ The entire report can be downloaded here:
 * [March 25th, 2016](progress/AkAES32516.pdf)
 * [March 11th, 2016](progress/AkAES31116.pdf)
 * [Febuary 26th, 2016](progress/AkAES22616.pdf)
-* [January 29th, 2016](progress/AkAES12916.pdf)
+* [January 29th, 2016](progress/AkAES12916.pdf) | 
 * [December 18th, 2015](progress/AkAES121815.pdf)
 * [November 20th, 2015](progress/AkAES112015.pdf)
 * [November 6th, 2016](progress/AkAES11615.pdf)
@@ -75,9 +77,7 @@ The entire report can be downloaded here:
 * [August 14th, 2015](progress/AkAES81415.pdf)
 * [July 31st, 2015](progress/AkAES73115.pdf)
 * [July 16th, 2015](progress/AkAES71615.pdf)
-
-##### Presentations Archive
-
+</tr><tr>
 * Advisory Committee Presentations
  * June 21, 2016: Preliminary Results from Research
  * [April 4, 2016: Drivers for Energy Cost](presentations/AdvisGrp4CostDrivers.pdf)
@@ -97,6 +97,7 @@ The entire report can be downloaded here:
  * [September 25, 2015: AEA Board Meeting](presentations/UpdatetoAEABoard092415.pdf)
  * [August 3, 2015: AkAES Update to Regional Planners](presentations/UpdatetoRegionalPlanners080315.pdf)
  * [December 9, 2014: Law Seminar Presentation](presentations/LawSeminarPres120914.pdf)
+</tr></tbody></table>
 
 #### Improving Access to Decision-Critical Information
 
