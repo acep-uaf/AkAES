@@ -56,6 +56,7 @@ The entire report can be downloaded here:
 <table><tbody>
 <tr><th>Progress Reports</th><th>Presentations</th>
 </tr><tr>
+
 * [June 30th, 2016](progress/AkAESEEPartnership063016.pdf) 
 * [June 17th, 2016](progress/AkAES61716.pdf)
 * [June 3rd, 2016](progress/AkAES6316.pdf)
@@ -77,7 +78,9 @@ The entire report can be downloaded here:
 * [August 14th, 2015](progress/AkAES81415.pdf)
 * [July 31st, 2015](progress/AkAES73115.pdf)
 * [July 16th, 2015](progress/AkAES71615.pdf)
+
 </tr><tr>
+
 * Advisory Committee Presentations
  * June 21, 2016: Preliminary Results from Research
  * [April 4, 2016: Drivers for Energy Cost](presentations/AdvisGrp4CostDrivers.pdf)
@@ -97,14 +100,29 @@ The entire report can be downloaded here:
  * [September 25, 2015: AEA Board Meeting](presentations/UpdatetoAEABoard092415.pdf)
  * [August 3, 2015: AkAES Update to Regional Planners](presentations/UpdatetoRegionalPlanners080315.pdf)
  * [December 9, 2014: Law Seminar Presentation](presentations/LawSeminarPres120914.pdf)
+
 </tr></tbody></table>
 
-#### Improving Access to Decision-Critical Information
+### Afforable Energy Strategy Model
 
-Strategies deployed to increase access to affordable energy must be tailored to the specific resources, needs and capacity of the community and/or utility they are intended to benefit. In order to analyze the cost-effectiveness of various infrastructure improvements in a given community, AEA developed the Alaska Affordable Energy Model (AAEM) with the assistance of Geographic Information Network of Alaska (GINA). The community energy evaluation tool is accessible from:
+**Improving Access to Decision-Critical Information**
 
-http://www.akenergyinventory.org/energymodel
+Strategies deployed to increase access to affordable energy must be tailored to the specific resources, needs and capacity of the community and/or utility they are intended to benefit. In order to analyze the cost-effectiveness of various infrastructure improvements in a given community, AEA developed the Alaska Affordable Energy Model (AAEM) with the assistance of [Geographic Information Network of Alaska (GINA)](https://gina.alaska.edu/). 
 
+The Alaska Affordable Energy Model (AAEM) is a model designed by the Alaska Energy Authority (AEA) and built by the University of Alaska Fairbanks’ (UAF) Geographic Information Network of Alaska (GINA). The goal of the AAEM is to provide Alaska with a community energy model and project evaluation tool. It uses community and regional energy data, fuel data, and socio-economic data to:
+
+* estimate and forecast heating and electricity consumption by sector,
+* compare the ability of energy infrastructure project types (efficiency, renewable energy, fuel switching) to reduce the cost of energy in communities,
+* determine the capital investment needed and the resulting energy savings to communities.
+
+Disclaimer: The results presented in the model results are generated from available data on population, consumption, generation, and information on a technologies analyzed. For some communities this information may be incomplete. If you have, or know of a source of data that could help improve the model please contact The Alaska Energy Authority.
+
+* [Browse Model Run Results]() model version: 1.0.0 data version: 1.0.0 _NOT AVAILABLE YET_
+* [Browse Model Documentation]() _NOT AVAILABLE YET_
+
+#### Installing the model locally
+
+A Windows package is offered for version 1.0.0 that installes the v1.0.0 model and model data. Installer and instructions can be found at [installer wiki page](https://github.com/gina-alaska/alaska_affordable_energy_model/wiki/Model-Install-for-Windows).
 
 ### Support or Contact
 
