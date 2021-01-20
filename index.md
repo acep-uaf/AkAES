@@ -36,10 +36,37 @@ The entire report can be downloaded here:
 
 AkAES Methodology, Findings, and Recommendations](AkAESMFR22217.pdf) _(Final version published Jan 23rd, 2017)_
 
-**Additional resources can be found in the sidebar entitled “Commissioned Reports”. There you will be able to find studies that were commissioned to support the AkAES project.**
+
+#### Additional Reports
+
+| Report Title  | Report Author(s)  | Completion Data   |
+| ---           | ---               | ---               |
+| [Energy Efficiency Program Evaluation and Financing Needs Assessment](reports/AKAESEEFinancingAssessment.pdf)| Vermont Energy Investment Corporation; Cold Climate Housing Research Center |  July 2016 | 
+| [LNG Feasibility for Alaska Affordable Energy Strategy Communities](LNGFeasibilityStudy2016.pdf) | Northern Economics | July 2016 |
+| [Documentation of Alaska-Specific Technology Development Needs in support of the Alaska Affordable Energy Strategy](reports/TechnologyDevelopmentNeeds.pdf)| [UAF Alaska Center for Energy & Power](http://acep.uaf.edu/) | June 2016 | 
+| [Rural Utility Financial Analysis](reports/Utilityfinancialanalysisandbenchmarkingstudy.pdf) | UAA Center for Economic Development | October 2016 |
+| [Fuel Transportation Improvement Report](reports/AEAfueltransportationreport101416.pdf) | US Army Corps of Engineers, Alaska District | October  2016 |
+| [Barriers and Opportunities for Private Investment in Rural Alaska Energy Projects](reports/BarriersReportFinal.pdf) | UAF Alaska Center for Energy & Power | December 2016 |
+| [Sustainable Utilities Study updates, utility structure analysis, and subsidy program analysis](reports/RuralAlaskaEnergyServicesAlternatives-final) | UAA Institute of Social & Economic Research | January 2017 |
+| [True Cost of Electricity & Bulk Fuel In Rural Alaska](reports/AKAESTrueCostElectricityFuel102616) | UAA Institute of Social & Economic Research | October 2016 |
+| [Energy Costs & Rural Alaska Out-migration](reports/2017_03-EnergyCostsAndRuralOut-Migration.pdf) | UAA Institute of Social & Economic Research | March 2017 |
+| [Financial Benchmarking for Rural Alaska Electric Utilities](reports/UtilityBenchmarkingReport.pdf) | UAA Center for Economic Development | June 2017 |
+
+#### Presentations & Progress Reports
+
+_not yet available in this archive.  See the Internet Way Back Machine's archive's [20190626 snapshop](https://web.archive.org/web/20190626203812/http://www.akenergyauthority.org/Policy-Planning/AlaskaAffordableEnergyStrategy)
+
+#### Improving Access to Decision-Critical Information
+
+Strategies deployed to increase access to affordable energy must be tailored to the specific resources, needs and capacity of the community and/or utility they are intended to benefit. In order to analyze the cost-effectiveness of various infrastructure improvements in a given community, AEA developed the Alaska Affordable Energy Model (AAEM) with the assistance of Geographic Information Network of Alaska (GINA). The community energy evaluation tool is accessible from:
+
+http://www.akenergyinventory.org/energymodel
+
 
 ### Support or Contact
 
-This is an archive of the work done by the Alaska Energy Authority. We recommend starting with AEA as a first point of contact for questions about the report and content within. If you have questions or want to help improve this archive of the AkAES feel free to contact us at ACEP.
+This is an archive of the work done by the Alaska Energy Authority and the various supporting report authors and made available for scholarship and research purposes only. Copyright  ownership of this material is left with the original authors and may be governed by local, national, and/or international laws and regulations, and your use of such content is solely at your own risk. Limit your use of to noninfnging or fair use under copyright law.
 
-* dayne@alaska.edu 
+We recommend starting with AEA as a first point of contact for questions about the report and content within. 
+
+If you have questions or want to help improve this archive of the AkAES feel free to contact us at ACEP: dayne@alaska.edu 
