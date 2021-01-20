@@ -42,11 +42,11 @@ _Final version published Jan 23rd, 2017_
 
 | Report Title  | Report Author(s)  | Completion Data   |
 | ---           | ---               | ---               |
-| [Energy Efficiency Program Evaluation and Financing Needs Assessment](reports/AKAESEEFinancingAssessment.pdf)| Vermont Energy Investment Corporation; [Cold Climate Housing Research Center](http://cchrc.org/) |  July 2016 | 
+| [Energy Efficiency Program Evaluation and Financing Needs Assessment](reports/AKAESEEFinancingAssessment.pdf)| [Vermont Energy Investment Corporation](https://www.veic.org/); [Cold Climate Housing Research Center](http://cchrc.org/) |  July 2016 | 
 | [LNG Feasibility for Alaska Affordable Energy Strategy Communities](LNGFeasibilityStudy2016.pdf) | [Northern Economics](https://northerneconomics.com/) | July 2016 |
 | [Documentation of Alaska-Specific Technology Development Needs in support of the Alaska Affordable Energy Strategy](reports/TechnologyDevelopmentNeeds.pdf)| [UAF Alaska Center for Energy & Power](http://acep.uaf.edu/) | June 2016 | 
-| [Rural Utility Financial Analysis](reports/Utilityfinancialanalysisandbenchmarkingstudy.pdf) | UAA Center for Economic Development | October 2016 |
-| [Fuel Transportation Improvement Report](reports/AEAfueltransportationreport101416.pdf) | US Army Corps of Engineers, Alaska District | October  2016 |
+| [Rural Utility Financial Analysis](reports/Utilityfinancialanalysisandbenchmarkingstudy.pdf) | [UAA Center for Economic Development](https://www.uaa.alaska.edu/academics/business-enterprise-institute/center-for-economic-development/) | October 2016 |
+| [Fuel Transportation Improvement Report](reports/AEAfueltransportationreport101416.pdf) | [US Army Corps of Engineers, Alaska District](https://www.poa.usace.army.mil/) | October  2016 |
 | [Barriers and Opportunities for Private Investment in Rural Alaska Energy Projects](reports/BarriersReportFinal.pdf) | [UAF Alaska Center for Energy & Power](http://acep.uaf.edu)| December 2016 |
 | [Sustainable Utilities Study updates, utility structure analysis, and subsidy program analysis](reports/RuralAlaskaEnergyServicesAlternatives-final) | [UAA Institute of Social & Economic Research](https://iseralaska.org/) | January 2017 |
 | [True Cost of Electricity & Bulk Fuel In Rural Alaska](reports/AKAESTrueCostElectricityFuel102616) | [UAA Institute of Social & Economic Research](https://iseralaska.org/) | October 2016 |
