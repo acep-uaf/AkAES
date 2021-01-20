@@ -5,7 +5,7 @@ This website is an archive of the various components of the Alaska Affordable En
 The official home of the AkAES reports is the [Alaska Energy Authority](http://www.akenergyauthority.org/Policy-Planning/AlaskaAffordableEnergyStrategy) (_website not available as of 2021_).  The bulk of the overview and context setting content below is directly from the Alaska Energy Authority's website.
 
 
-#### Alaska Affordable Energy Strategy Overview
+### Alaska Affordable Energy Strategy Overview
 
 The Alaska Energy Authority (AEA) was tasked in 2014 by the 28th Alaska Legislature to provide recommendations to improve the affordability of energy in areas of the state not serviced by the proposed natural gas pipeline (gasline). The Alaska Affordable Energy Strategy (AkAES) is the result of this effort.
 
@@ -15,7 +15,7 @@ The AkAES is a strategic plan to improve the methods by which the State works wi
 
 ----
 
-A longer, complementary report entitled **"AkAES Methodology, Findings, and Recommendations"** goes into greater detail. The report contains the backing documentation for the recommendations, laid out in a logical framework.
+A longer, complementary report entitled **AkAES Methodology, Findings, and Recommendations](AkAESMFR22217.pdf)** goes into greater detail. The report contains the backing documentation for the recommendations, laid out in a logical framework.
 
 **Chapter 1** provides an overview of the research and resources that were brought to bear for this project.
 
@@ -37,22 +37,23 @@ The entire report can be downloaded here:
 * [AkAES Methodology, Findings, and Recommendations](AkAESMFR22217.pdf) _(Final version published Jan 23rd, 2017)_
 
 
-#### Additional Reports
+### Additional Reports
 
 | Report Title  | Report Author(s)  | Completion Data   |
 | ---           | ---               | ---               |
-| [Energy Efficiency Program Evaluation and Financing Needs Assessment](reports/AKAESEEFinancingAssessment.pdf)| Vermont Energy Investment Corporation; Cold Climate Housing Research Center |  July 2016 | 
-| [LNG Feasibility for Alaska Affordable Energy Strategy Communities](LNGFeasibilityStudy2016.pdf) | Northern Economics | July 2016 |
+| [Energy Efficiency Program Evaluation and Financing Needs Assessment](reports/AKAESEEFinancingAssessment.pdf)| Vermont Energy Investment Corporation; [Cold Climate Housing Research Center](http://cchrc.org/) |  July 2016 | 
+| [LNG Feasibility for Alaska Affordable Energy Strategy Communities](LNGFeasibilityStudy2016.pdf) | [Northern Economics](https://northerneconomics.com/) | July 2016 |
 | [Documentation of Alaska-Specific Technology Development Needs in support of the Alaska Affordable Energy Strategy](reports/TechnologyDevelopmentNeeds.pdf)| [UAF Alaska Center for Energy & Power](http://acep.uaf.edu/) | June 2016 | 
 | [Rural Utility Financial Analysis](reports/Utilityfinancialanalysisandbenchmarkingstudy.pdf) | UAA Center for Economic Development | October 2016 |
 | [Fuel Transportation Improvement Report](reports/AEAfueltransportationreport101416.pdf) | US Army Corps of Engineers, Alaska District | October  2016 |
-| [Barriers and Opportunities for Private Investment in Rural Alaska Energy Projects](reports/BarriersReportFinal.pdf) | UAF Alaska Center for Energy & Power | December 2016 |
-| [Sustainable Utilities Study updates, utility structure analysis, and subsidy program analysis](reports/RuralAlaskaEnergyServicesAlternatives-final) | UAA Institute of Social & Economic Research | January 2017 |
-| [True Cost of Electricity & Bulk Fuel In Rural Alaska](reports/AKAESTrueCostElectricityFuel102616) | UAA Institute of Social & Economic Research | October 2016 |
-| [Energy Costs & Rural Alaska Out-migration](reports/2017_03-EnergyCostsAndRuralOut-Migration.pdf) | UAA Institute of Social & Economic Research | March 2017 |
-| [Financial Benchmarking for Rural Alaska Electric Utilities](reports/UtilityBenchmarkingReport.pdf) | UAA Center for Economic Development | June 2017 |
+| [Barriers and Opportunities for Private Investment in Rural Alaska Energy Projects](reports/BarriersReportFinal.pdf) | [UAF Alaska Center for Energy & Power](http://acep.uaf.edu)| December 2016 |
+| [Sustainable Utilities Study updates, utility structure analysis, and subsidy program analysis](reports/RuralAlaskaEnergyServicesAlternatives-final) | [UAA Institute of Social & Economic Research](https://iseralaska.org/) | January 2017 |
+| [True Cost of Electricity & Bulk Fuel In Rural Alaska](reports/AKAESTrueCostElectricityFuel102616) | [UAA Institute of Social & Economic Research](https://iseralaska.org/) | October 2016 |
+| [Energy Costs & Rural Alaska Out-migration](reports/2017_03-EnergyCostsAndRuralOut-Migration.pdf) | [UAA Institute of Social & Economic Research](https://iseralaska.org/) | March 2017 |
+| [Financial Benchmarking for Rural Alaska Electric Utilities](reports/UtilityBenchmarkingReport.pdf) | [UAA Center for Economic Development](https://www.uaa.alaska.edu/academics/business-enterprise-institute/center-for-economic-development/) | June 2017 |
 
 ##### Progress Reports Archive
+
 * [June 30th, 2016](progress/AkAESEEPartnership063016.pdf) 
 * [June 17th, 2016](progress/AkAES61716.pdf)
 * [June 3rd, 2016](progress/AkAES6316.pdf)
