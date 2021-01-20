@@ -2,8 +2,7 @@
 
 This website is an archive of the various components of the Alaska Affordable Energy Strategy (AkAES) reports, model, code, and data. The goal of the archive is to preserve all of these various components in one location for long-term accessability and ensure they remain available for future updates as appropriate. 
 
-The official home of the AkAES reports is the [Alaska Energy Authority](http://www.akenergyauthority.org/Policy-Planning/AlaskaAffordableEnergyStrategy) (_website not available as of January 2021_).  The bulk of the overview and context setting content below is directly from the Alaska Energy Authority's website.
-
+The official home of the AkAES reports was on the [Alaska Energy Authority Policy Planning website](http://www.akenergyauthority.org/Policy-Planning/AlaskaAffordableEnergyStrategy). As of January 2021 that website and the associated content was not available after an overhaul of the AEA website content management system. The bulk of the overview and context setting content below is directly from the original Alaska Energy Authority Policy Planning AkAES website.
 
 ### Alaska Affordable Energy Strategy Overview
 
@@ -36,7 +35,7 @@ Chapters 4, 5 and 6 describe and analyze factors that could help bring affordabl
 The entire report can be downloaded here:
 
 * [AkAES Methodology, Findings, and Recommendations](AkAESMFR22217.pdf)  
-_(Final version published Jan 23rd, 2017)_
+_Final version published Jan 23rd, 2017_
 
 
 ### Additional Reports
