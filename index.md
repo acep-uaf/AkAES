@@ -117,7 +117,8 @@ Disclaimer: The results presented in the model results are generated from availa
 
 _Module Run and Documentation websites not available yet_
 
-* [Browse Model Run Results]() model version: 1.0.0 data version: 1.0.0 
+* [Browse Model Run Results]()  
+model version: 1.0.0 data version: 1.0.0 
 * [Browse Model Documentation]()
 
 #### Installing the model locally
@@ -130,6 +131,4 @@ This is an archive of the work done by the Alaska Energy Authority and the vario
 
 We recommend starting with AEA as a first point of contact for questions about the report and content within. 
 
-If you have questions or want to help improve this archive of the AkAES feel free to contact us at ACEP: dayne@alaska.edu 
-
-If you spot an error/correction or have additional content available please let us know through our [GitHub issue tracker](https://github.com/acep-uaf/AkAES/issues).
+If you have questions or want to help improve this archive of the AkAES feel free to let us know through our [GitHub issue tracker](https://github.com/acep-uaf/AkAES/issues).
