@@ -34,7 +34,7 @@ Chapters 4, 5 and 6 describe and analyze factors that could help bring affordabl
 
 The entire report can be downloaded here:
 
-AkAES Methodology, Findings, and Recommendations](AkAESMFR22217.pdf) _(Final version published Jan 23rd, 2017)_
+* [AkAES Methodology, Findings, and Recommendations](AkAESMFR22217.pdf) _(Final version published Jan 23rd, 2017)_
 
 
 #### Additional Reports
@@ -52,9 +52,50 @@ AkAES Methodology, Findings, and Recommendations](AkAESMFR22217.pdf) _(Final ver
 | [Energy Costs & Rural Alaska Out-migration](reports/2017_03-EnergyCostsAndRuralOut-Migration.pdf) | UAA Institute of Social & Economic Research | March 2017 |
 | [Financial Benchmarking for Rural Alaska Electric Utilities](reports/UtilityBenchmarkingReport.pdf) | UAA Center for Economic Development | June 2017 |
 
-#### Presentations & Progress Reports
+##### Progress Reports Archive
+* [June 30th, 2016](progress/AkAESEEPartnership063016.pdf) 
+* [June 17th, 2016](progress/AkAES61716.pdf)
+* [June 3rd, 2016](progress/AkAES6316.pdf)
+* [May 20th, 2016](progress/AkAES52016.pdf)
+* [May 9th, 2016](progress/Update5916.pdf)
+* April 8th, 2016
+* [March 25th, 2016](progress/AkAES32516.pdf)
+* [March 11th, 2016](progress/AkAES31116.pdf)
+* [Febuary 26th, 2016](progress/AkAES22616.pdf)
+* [January 29th, 2016](progress/AkAES12916.pdf)
+* [December 18th, 2015](progress/AkAES121815.pdf)
+* [November 20th, 2015](progress/AkAES112015.pdf)
+* [November 6th, 2016](progress/AkAES11615.pdf)
+* [October 23rd, 2015](progress/AkAES102315.pdf)
+* [October 8th, 2015](progress/AkAES100815.pdf)
+* [September 25th, 2015](progress/AkAES92515.pdf)
+* [September 11, 2015](progress/AkAES91115.pdf)
+* [August 28th, 2015](progress/AkAES082815.pdf)
+* [August 14th, 2015](progress/AkAES81415.pdf)
+* [July 31st, 2015](progress/AkAES73115.pdf)
+* [July 16th, 2015](progress/AkAES71615.pdf)
 
-_not yet available in this archive.  See the Internet Way Back Machine's archive's [20190626 snapshop](https://web.archive.org/web/20190626203812/http://www.akenergyauthority.org/Policy-Planning/AlaskaAffordableEnergyStrategy)
+##### Presentations Archive
+
+* Advisory Committee Presentations
+ * June 21, 2016: Preliminary Results from Research
+ * [April 4, 2016: Drivers for Energy Cost](presentations/AdvisGrp4CostDrivers.pdf)
+ * [February 18, 2016: Affordable Energy]()
+ * November 19, 2015: Energy Sources, Consumption, & Rates in AkAES Communities
+ * October 7, 2015:  What is AkAES?
+* Technical Advisory Committee Presentations
+ * [January 27, 2016: Update](presentations/TechAdvUpdate012716.pdf)
+ * November 6, 2015: Modeling
+ * [September 23, 2015: Implications of "Affordable"](presentations/TechAdvUpdate092315.pdf) 
+ * [July 23, 2015: What is the AkAES?](presentations/TechAdvUpdate072315.pdf)
+* Legislature Presentations
+ * [January 25, 2017: Presentation to the Senate Resources Committe](presentations/AkAESforSenateandHouseResource-1-25-17.pdf)
+* Other Presentations
+ * [June 27, 2015: Update to Regional Planners](presentations/AkAESRegionalPlannersUpdate62716.pdf)
+ * [April 26, 2016: Rural Energy Conference](presentations/AKaesREC42616.pdf)
+ * [September 25, 2015: AEA Board Meeting](presentations/UpdatetoAEABoard092415.pdf)
+ * [August 3, 2015: AkAES Update to Regional Planners](presentations/UpdatetoRegionalPlanners080315.pdf)
+ * [December 9, 2014: Law Seminar Presentation](presentations/LawSeminarPres120914.pdf)
 
 #### Improving Access to Decision-Critical Information
 
