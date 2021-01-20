@@ -11,11 +11,12 @@ The Alaska Energy Authority (AEA) was tasked in 2014 by the 28th Alaska Legislat
 
 The AkAES is a strategic plan to improve the methods by which the State works with non-Railbelt communities and utilities to identify, evaluate, develop and maintain cost-effective energy solutions. The strategy includes recommendations for policy, financing mechanisms, strengthened regulation and other administrative tools. The final report, submitted to the legislature on December 30, 2016, provides a high level summary of the AkAES research and reccomendations.
 
-* [AkAES Summary Document](AkAESES12317printfinalv2.pdf) - _Printfinalv2 was published Jan 23rd, 2017_
+* [AkAES Summary Document](AkAESES12317printfinalv2.pdf)  
+  _Originally published Jan 23rd, 2017_
 
 ----
 
-A longer, complementary report entitled **AkAES Methodology, Findings, and Recommendations](AkAESMFR22217.pdf)** goes into greater detail. The report contains the backing documentation for the recommendations, laid out in a logical framework.
+A longer, complementary report entitled **[AkAES Methodology, Findings, and Recommendations](AkAESMFR22217.pdf)** goes into greater detail. The report contains the backing documentation for the recommendations, laid out in a logical framework.
 
 **Chapter 1** provides an overview of the research and resources that were brought to bear for this project.
 
@@ -34,7 +35,8 @@ Chapters 4, 5 and 6 describe and analyze factors that could help bring affordabl
 
 The entire report can be downloaded here:
 
-* [AkAES Methodology, Findings, and Recommendations](AkAESMFR22217.pdf) _(Final version published Jan 23rd, 2017)_
+* [AkAES Methodology, Findings, and Recommendations](AkAESMFR22217.pdf)  
+_(Final version published Jan 23rd, 2017)_
 
 
 ### Additional Reports
