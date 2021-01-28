@@ -117,9 +117,9 @@ Disclaimer: The results presented in the model results are generated from availa
 
 _Module Run and Documentation websites not available yet_
 
-* [Browse Model Run Results]()  
+* [Browse Model Run Results](https://acep-uaf.github.io/AkAES-model_results/f)  
 model version: 1.0.0 data version: 1.0.0 
-* [Browse Model Documentation]()
+* [Browse Model Documentation](https://acep-uaf.github.io/AkAES-model_docs/)
 
 #### Installing the model locally
 
