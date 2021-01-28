@@ -115,11 +115,10 @@ The Alaska Affordable Energy Model (AAEM) is a model designed by the Alaska Ener
 
 Disclaimer: The results presented in the model results are generated from available data on population, consumption, generation, and information on a technologies analyzed. For some communities this information may be incomplete. If you have, or know of a source of data that could help improve the model please contact The Alaska Energy Authority.
 
-_Module Run and Documentation websites not available yet_
-
-* [Browse Model Run Results](https://acep-uaf.github.io/AkAES-model_results/f)  
-model version: 1.0.0 data version: 1.0.0 
+* [Browse Model Run Results](https://acep-uaf.github.io/AkAES-model_results/)  
 * [Browse Model Documentation](https://acep-uaf.github.io/AkAES-model_docs/)
+* [Browse Model Code](https://github.com/gina-alaska/alaska_affordable_energy_model)
+* [Browse Model Data](https://github.com/gina-alaska/alaska_affordable_energy_model-data)
 
 #### Installing the model locally
 
